@@ -1,3 +1,14 @@
 git status --> print the status on repository
 git init
 git config --global user.name 
+
+
+
+
+
+
+
+
+
+
+primul text adaugat aici
