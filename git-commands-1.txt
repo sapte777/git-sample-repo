@@ -1,0 +1,21 @@
+<<<<<<< HEAD
+=======
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+text din privatebranch1
+>>>>>>> privatebranch1
