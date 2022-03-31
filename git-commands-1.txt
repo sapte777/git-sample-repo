@@ -7,3 +7,6 @@ AM adaugat al doilea text din privatebranch2
 
 text din privatebranch1
 >>>>>>> privatebranch1
+
+
+text din noul pb1 adaugat
