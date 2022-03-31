@@ -1,3 +1,17 @@
 git status --> print the status on repository
 git init
 git config --global user.name 
+
+
+
+
+
+
+
+
+
+
+
+
+
+AM adaugat al doilea text din privatebranch2
