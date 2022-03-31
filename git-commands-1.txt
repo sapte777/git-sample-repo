@@ -1,4 +1,5 @@
 
+<<<<<<< HEAD
 
 
 
@@ -7,6 +8,10 @@
 
 
 
+=======
+AM adaugat al doilea text din privatebranch2
+=======
+>>>>>>> privatebranch2
 
 
 
