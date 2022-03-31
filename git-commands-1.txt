@@ -11,4 +11,11 @@ git config --global user.name
 
 
 
+<<<<<<< HEAD
 primul text adaugat aici
+=======
+
+
+
+AM adaugat al doilea text din privatebranch2
+>>>>>>> privatebranch2
